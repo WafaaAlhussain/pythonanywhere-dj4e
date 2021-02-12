@@ -26,7 +26,7 @@
 
 # Then copy the client_key and secret to this file
 
-SOCIAL_AUTH_GITHUB_KEY = '5373d57594da4b2ea3a6'
-SOCIAL_AUTH_GITHUB_SECRET = 'e6b9397c61e28920344acc211d84d7df3786ac6b'
+SOCIAL_AUTH_GITHUB_KEY = 'lkmkm'
+SOCIAL_AUTH_GITHUB_SECRET = 'lkmlk'
 
 # For detail: https://readthedocs.org/projects/python-social-auth/downloads/pdf/latest/
